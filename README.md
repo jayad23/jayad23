@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kike Vanegas or "Kz"</h1>
+<h1 align="center">Hi 👋, I'm Kz</h1>
 <h3 align="center">A Colombian Frontend Developer located & working in Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayad23&label=Profile%20views&color=0e75b6&style=flat" alt="jayad23" /> </p>
