@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayad23" alt="jayad23" /></a> </p>
 
-- 🔭 I’m currently working on **<span color="blue">Web App for Automation of services and cloud infrastructure.</span>**
+- 🔭 I’m currently working on **<span style="color:'blue'">Web App for Automation of services and cloud infrastructure.</span>**
 
 - 🌱 I’m currently learning **Python & Machine learning tools**
 
