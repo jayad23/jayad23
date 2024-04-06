@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web App for Automation of services and cloud infrastructure.**
 
-- 🌱 I’m currently learning **Python Machine learning tools**
+- 🌱 I’m currently learning **Python & Machine learning tools**
 
 - 👨‍💻 Take a look at my portfolio [https://kike-vanegas-dev.vercel.app/home](https://kike-vanegas-dev.vercel.app/home)
 
