@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Python & Machine learning tools**
 
-- 👨‍💻 Take a look at my portfolio [https://kike-vanegas-dev.vercel.app/home](https://kike-vanegas-dev.vercel.app/home)
+- 👨‍💻 **<a href="https://kike-vanegas-dev.vercel.app/home" alt="portfolio" target="_blank">Take a look at my portfolio</a>**
 
-- 📝 I regularly write articles on [https://kike-vanegas-dev.vercel.app/blog-list](https://kike-vanegas-dev.vercel.app/blog-list)
+- 📝 **<a href="https://kike-vanegas-dev.vercel.app/blog-list" alt="dev.to" target="_blank">I regularly write articles</a>**
 
 - 📫 How to reach me **iamkikevanegas@gmail.com**
 
-- 📄 Take a look at my resume [https://media.licdn.com/dms/document/media/D4D2DAQGZuH5TT_OENA/profile-treasury-document-pdf-analyzed/0/1712073984379?e=1713398400&v=beta&t=lqjXz1qKONxugrnoLRDlDEFwP44muXzww5IlR0Gy-bU](https://media.licdn.com/dms/document/media/D4D2DAQGZuH5TT_OENA/profile-treasury-document-pdf-analyzed/0/1712073984379?e=1713398400&v=beta&t=lqjXz1qKONxugrnoLRDlDEFwP44muXzww5IlR0Gy-bU)
+- 📄 **<a href="https://media.licdn.com/dms/document/media/D4D2DAQGZuH5TT_OENA/profile-treasury-document-pdf-analyzed/0/1712073984379?e=1713398400&v=beta&t=lqjXz1qKONxugrnoLRDlDEFwP44muXzww5IlR0Gy-bU" target="resume" target="_blank">Take a look at my resume</a>**
 
-- 🤩 My most proud accomplishment **<a href="https://drive.google.com/file/d/1-TJIUb15pilWP8U_rpdiIphUBzl6WGkR/view?usp=sharing" alt="stanford_diploma" target="blank">Diploma Stanford</a>**
+- 🤩 My most proud accomplishment **<a href="https://drive.google.com/file/d/1-TJIUb15pilWP8U_rpdiIphUBzl6WGkR/view?usp=sharing" alt="stanford_diploma" target="_blank">Diploma Stanford</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
