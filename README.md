@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/CK4v2Y7/Screenshot-2024-04-09-at-21-21-02-removebg-preview.png" width="140" height="80" alt="Kz" />
+  <img src="https://i.ibb.co/CK4v2Y7/Screenshot-2024-04-09-at-21-21-02-removebg-preview.png" width="140" height="75" alt="Kz" />
 </h1>
 
 <h3 align="center">👨🏽‍💻 Front-end developer & full-time learner 👨🏽‍💻</h3>
