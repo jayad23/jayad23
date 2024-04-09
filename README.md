@@ -1,7 +1,7 @@
-## Hi there, I am Nipa 👋
+## Hi there, I am Kike 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kikeVngz?color=d0a4ff&style=for-the-badge)][twitter]
-[![Portfolio](https://img.shields.io/website?style=for-the-badge&up_color=%23D0A4FF&up_message=kz&url=https%3A%2F%2Fkike-vanegas-dev.vercel.app%2Fhome)][portfolio]
+[![Twitter Follow](https://img.shields.io/twitter/follow/kikeVngz?color=6196A6&style=for-the-badge)][twitter]
+[![Portfolio](https://img.shields.io/website?style=for-the-badge&up_color=%6196A6FF&up_message=kz&url=https%3A%2F%2Fkike-vanegas-dev.vercel.app%2Fhome)][portfolio]
 
 
 ### I'm a Developer and Explorer!
