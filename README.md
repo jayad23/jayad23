@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <p color="6196A6">Kz</p></h1>
-<h3 align="center">Front-end developer & full-time learner</h3>
+<h1 align="center">Hi 👋, I'm Kz</h1>
+<h3 align="center">👨🏽‍💻 Front-end developer & full-time learner 👨🏽‍💻</h3>
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a> </p>
 
 - 🔭 I’m currently working on **Web App for Automation of services and cloud infrastructure.**
@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to//jayad23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="/jayad23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//in/jaidervanegas23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/jaidervanegas23/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users//users/18069936/kz-3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/18069936/kz-3" height="30" width="40" /></a>
+<a href="https://dev.to//jayad23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="/jayad23" height="20" width="20" /></a>
+<a href="https://linkedin.com/in//in/jaidervanegas23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/jaidervanegas23/" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users//users/18069936/kz-3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/18069936/kz-3" height="20" width="20" /></a>
 </p>
 
 ## Languages and Tools:
