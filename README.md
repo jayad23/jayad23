@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python & Machine learning tools**
 
-- 👨‍💻 **<a style="color:#03C988" href="https://kike-vanegas-dev.vercel.app/home" alt="portfolio" target="_blank">Take a look at my portfolio</a>**
+- 👨‍💻 **<a style="color:#03C988!important" href="https://kike-vanegas-dev.vercel.app/home" alt="portfolio" target="_blank">Take a look at my portfolio</a>**
 
 - 📝 **<a style="color:#03C988" href="https://kike-vanegas-dev.vercel.app/blog-list" alt="dev.to" target="_blank">I regularly write articles</a>**
 
