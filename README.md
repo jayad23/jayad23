@@ -1,6 +1,6 @@
 ## Hi there, I am Kike 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kikeVngz?color=6196A6&style=for-the-badge)][twitter]
+[![Twitter Follow](https://img.shields.io/twitter/follow/kikeVngz?color=6196A6F&style=for-the-badge)][twitter]
 [![Portfolio](https://img.shields.io/website?style=for-the-badge&up_color=%6196A6FF&up_message=kz&url=https%3A%2F%2Fkike-vanegas-dev.vercel.app%2Fhome)][portfolio]
 
 
