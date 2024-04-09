@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a> </p>
 
 <p align="left"> <a href="https://twitter.com/kikevngz" target="blank" style="color:#03C988"><img src="https://img.shields.io/twitter/follow/kikeVngz?style=for-the-badge&color=38E54D" alt="kikevngz" /></a> </p>
-[![Portfolio](https://img.shields.io/website?style=for-the-badge&up_color=%23D0A4FF&up_message=nipa&url=https%3A%2F%2Fnipa-das-gupta.netlify.app%2F)][portfolio]
+
 
 - 🔭 I’m currently working on **Web App for Automation of services and cloud infrastructure.**
 
