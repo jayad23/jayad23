@@ -2,6 +2,10 @@
 <h3 align="center">👨🏽‍💻 Front-end developer & full-time learner 👨🏽‍💻</h3>
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayad23&label=Profile%20views&color=0e75b6&style=flat" alt="jayad23" /> </p>
+
+<p align="left"> <a href="https://twitter.com/kikevngz" target="blank"><img src="https://img.shields.io/twitter/follow/kikevngz?logo=twitter&style=for-the-badge" alt="kikevngz" /></a> </p>
+
 - 🔭 I’m currently working on **Web App for Automation of services and cloud infrastructure.**
 
 - 🌱 I’m currently learning **Python & Machine learning tools**
