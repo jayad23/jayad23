@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayad23&label=Profile%20views&color=0e75b6&style=flat" alt="jayad23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayad23" alt="jayad23" /></a> </p>
-
 - 🔭 I’m currently working on **Web App for Automation of services and cloud infrastructure.**
 
 - 🌱 I’m currently learning **Python & Machine learning tools**
