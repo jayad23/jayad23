@@ -6,16 +6,12 @@
 
 
 - 🔭 I’m currently working on **Web App for Automation of services and cloud infrastructure.**
-
 - 🌱 I’m currently learning **Python & Machine learning tools**
-
-- 👨‍💻 **<a style="color:#03C988!important" href="https://kike-vanegas-dev.vercel.app/home" alt="portfolio" target="_blank">Take a look at my portfolio</a>**
-
-- 📝 **<a style="color:#03C988" href="https://kike-vanegas-dev.vercel.app/blog-list" alt="dev.to" target="_blank">I regularly write articles</a>**
-
+- 👨‍💻 **<a href="https://kike-vanegas-dev.vercel.app/home" alt="portfolio" target="_blank">My portfolio</a>**
+- From time to time, I like to write articles **<a style="color:#03C988" href="https://kike-vanegas-dev.vercel.app/blog-list" alt="dev.to" target="_blank">📝</a>**
 - 📫 How to reach me **iamkikevanegas@gmail.com**
 
-- 📄 **<a style="color:#03C988" href="https://media.licdn.com/dms/document/media/D4D2DAQGZuH5TT_OENA/profile-treasury-document-pdf-analyzed/0/1712073984379?e=1713398400&v=beta&t=lqjXz1qKONxugrnoLRDlDEFwP44muXzww5IlR0Gy-bU" target="resume" target="_blank">Take a look at my resume</a>**
+- 📄 **<a href="https://media.licdn.com/dms/document/media/D4D2DAQGZuH5TT_OENA/profile-treasury-document-pdf-analyzed/0/1712073984379?e=1713398400&v=beta&t=lqjXz1qKONxugrnoLRDlDEFwP44muXzww5IlR0Gy-bU" target="resume" target="_blank">My resume</a>**
 
 - 🤩 My most proud accomplishment **<a href="https://drive.google.com/file/d/1-TJIUb15pilWP8U_rpdiIphUBzl6WGkR/view?usp=sharing" alt="stanford_diploma" target="_blank">Diploma Stanford</a>**
 
