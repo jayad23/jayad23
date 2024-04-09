@@ -6,7 +6,7 @@
 
 
 ### Some of the things I am up to!
-🔭 I’m currently working on **Web App for Automation of services and cloud infrastructure.**
+🔭 I’m currently working on **Web App for Automation of CPD's & Cloud services**
 
 - 🌱 Learning **Python & Machine learning tools**
 - 💼 **<a href="https://kike-vanegas-dev.vercel.app/home" alt="portfolio" target="_blank">My Portfolio</a>**
