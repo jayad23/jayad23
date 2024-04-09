@@ -8,19 +8,16 @@
 <p align="left"> <a href="https://twitter.com/kikevngz" target="blank" style="color:#03C988"><img src="https://img.shields.io/twitter/follow/kikeVngz?style=for-the-badge&color=38E54D" alt="kikevngz" /></a> </p>
 
 
-### Some of the things I am up to!
-🔭 I’m currently working on **Web App for Automation of CPD's & Cloud services**
+### Bio 🌱
+Hi there! 
+I am a front-end developer. I like to create innovative but simple solutions to make interesting & fun websites. I'm never still. I am constantly working to become an entrepreneur: I created and still maintain a billing app that I later sold to a car workshop. The app handles all billing processes: delivery notes, budgets, & bills (including third-party bills such as insurance companies), generates payment alarms, takes in work orders, and automatically assigns staff those orders. Keeps records and presents useful stats to track expenses, client's repair history... and other features. 
+Being creative requires being curious, so I feed my curiosity by staying updated with current tech stacks.
 
-- 🌱 Learning **Python & Machine learning tools**
-- 💼 **<a href="https://kike-vanegas-dev.vercel.app/home" alt="portfolio" target="_blank">My Portfolio</a>**
-- 📝 **<a href="https://kike-vanegas-dev.vercel.app/blog-list" alt="dev.to" target="_blank">I like to write</a>**
-- 📄 **<a href="https://media.licdn.com/dms/document/media/D4D2DAQGZuH5TT_OENA/profile-treasury-document-pdf-analyzed/0/1712073984379?e=1713398400&v=beta&t=lqjXz1qKONxugrnoLRDlDEFwP44muXzww5IlR0Gy-bU" target="resume" target="_blank">My resume</a>**
 
-- 🤩 My most proud accomplishment **<a href="https://drive.google.com/file/d/1-TJIUb15pilWP8U_rpdiIphUBzl6WGkR/view?usp=sharing" alt="stanford_diploma" target="_blank">Diploma Stanford</a>**
+- 🤩 My most proud accomplishment **<a href="https://drive.google.com/file/d/1-TJIUb15pilWP8U_rpdiIphUBzl6WGkR/view?usp=sharing" alt="stanford_diploma" target="_blank">Certificate Diploma Stanford</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to//jayad23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="/jayad23" height="20" width="20" /></a>
 <a href="https://linkedin.com/in//in/jaidervanegas23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/jaidervanegas23/" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users//users/18069936/kz-3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/18069936/kz-3" height="20" width="20" /></a>
 </p>
