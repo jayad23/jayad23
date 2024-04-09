@@ -2,19 +2,19 @@
 <h3 align="center">👨🏽‍💻 Front-end developer & full-time learner 👨🏽‍💻</h3>
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a> </p>
 
-<p align="left"> <a href="https://twitter.com/kikevngz" target="blank" color="#03C988"><img src="https://img.shields.io/twitter/follow/kikevngz?logo=twitter&style=for-the-badge" alt="kikevngz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kikevngz" target="blank" style="color:#03C988"><img src="https://img.shields.io/twitter/follow/kikevngz?logo=twitter&style=for-the-badge" alt="kikevngz" /></a> </p>
 
 - 🔭 I’m currently working on **Web App for Automation of services and cloud infrastructure.**
 
 - 🌱 I’m currently learning **Python & Machine learning tools**
 
-- 👨‍💻 **<a href="https://kike-vanegas-dev.vercel.app/home" alt="portfolio" target="_blank">Take a look at my portfolio</a>**
+- 👨‍💻 **<a style="color:#03C988" href="https://kike-vanegas-dev.vercel.app/home" alt="portfolio" target="_blank">Take a look at my portfolio</a>**
 
-- 📝 **<a href="https://kike-vanegas-dev.vercel.app/blog-list" alt="dev.to" target="_blank">I regularly write articles</a>**
+- 📝 **<a style="color:#03C988" href="https://kike-vanegas-dev.vercel.app/blog-list" alt="dev.to" target="_blank">I regularly write articles</a>**
 
 - 📫 How to reach me **iamkikevanegas@gmail.com**
 
-- 📄 **<a href="https://media.licdn.com/dms/document/media/D4D2DAQGZuH5TT_OENA/profile-treasury-document-pdf-analyzed/0/1712073984379?e=1713398400&v=beta&t=lqjXz1qKONxugrnoLRDlDEFwP44muXzww5IlR0Gy-bU" target="resume" target="_blank">Take a look at my resume</a>**
+- 📄 **<a style="color:#03C988" href="https://media.licdn.com/dms/document/media/D4D2DAQGZuH5TT_OENA/profile-treasury-document-pdf-analyzed/0/1712073984379?e=1713398400&v=beta&t=lqjXz1qKONxugrnoLRDlDEFwP44muXzww5IlR0Gy-bU" target="resume" target="_blank">Take a look at my resume</a>**
 
 - 🤩 My most proud accomplishment **<a href="https://drive.google.com/file/d/1-TJIUb15pilWP8U_rpdiIphUBzl6WGkR/view?usp=sharing" alt="stanford_diploma" target="_blank">Diploma Stanford</a>**
 
