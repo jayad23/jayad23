@@ -1,48 +1,30 @@
-## Hi there, I am Kike 👋
+<h1 align="center">Hi 👋, I'm Kz</h1>
+<h3 align="center">A Colombian Frontend Developer located & working in Spain</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kikeVngz?color=6196A6F&style=for-the-badge)][twitter]
-[![Portfolio](https://img.shields.io/website?style=for-the-badge&up_color=%6196A6FF&up_message=kz&url=https%3A%2F%2Fkike-vanegas-dev.vercel.app%2Fhome)][portfolio]
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayad23&label=Profile%20views&color=0e75b6&style=flat" alt="jayad23" /> </p>
 
+- 🔭 I’m currently working on **Web App for Automation of services and cloud infrastructure.**
 
-### I'm a Developer and Explorer!
+- 🌱 I’m currently learning **Python & Machine learning tools**
 
-- 🌱 I’m learning more about data science currently
-- 🥅 2023 Goals: Get a job
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I love to read books, listen to music and watch movies
+- 👨‍💻 **<a href="https://kike-vanegas-dev.vercel.app/home" alt="portfolio" target="_blank">Take a look at my portfolio</a>**
 
+- 📝 **<a href="https://kike-vanegas-dev.vercel.app/blog-list" alt="dev.to" target="_blank">I regularly write articles</a>**
 
-### Connect with me:
+- 📫 How to reach me **iamkikevanegas@gmail.com**
 
-&nbsp; <br> [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />][twitter]
-[<img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" style="padding-right:10px;" />][instagram]
-[<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />][facebook]
-<br>
+- 📄 **<a href="https://media.licdn.com/dms/document/media/D4D2DAQGZuH5TT_OENA/profile-treasury-document-pdf-analyzed/0/1712073984379?e=1713398400&v=beta&t=lqjXz1qKONxugrnoLRDlDEFwP44muXzww5IlR0Gy-bU" target="resume" target="_blank">Take a look at my resume</a>**
 
+- 🤩 My most proud accomplishment **<a href="https://drive.google.com/file/d/1-TJIUb15pilWP8U_rpdiIphUBzl6WGkR/view?usp=sharing" alt="stanford_diploma" target="_blank">Diploma Stanford</a>**
 
-### Languages and Tools:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to//jayad23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="/jayad23" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//in/jaidervanegas23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/jaidervanegas23/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users//users/18069936/kz-3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/18069936/kz-3" height="30" width="40" /></a>
+</p>
 
-&nbsp; <br> <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-<br />
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### GitHub Stats 🌈
-
-&nbsp; <br> [![Nipa's github stats](https://github-readme-stats.vercel.app/api?username=NipaDasGupta)](https://github.com/anuraghazra/github-readme-stats)
-
-[email]: nipantika.nipa@gmail.com
-[portfolio]: https://nipa-das-gupta.netlify.app/
-[linkedin]: https://www.linkedin.com/in/nipadasgupta
-[twitter]: https://twitter.com/codewithnipa
-[instagram]: https://www.instagram.com/codewithnipa/
-[facebook]: https://web.facebook.com/codewithnipa
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayad23&show_icons=true&locale=en&layout=compact" alt="jayad23" /></p>
