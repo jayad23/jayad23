@@ -2,7 +2,6 @@
 <h3 align="center">A Colombian Frontend Developer located & working in Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayad23&label=Profile%20views&color=0e75b6&style=flat" alt="jayad23" /> </p>
-[![Kike Vanegas](https://github.com/jayad23/for-study/actions/workflows/node.js.yml/badge.svg)](https://github.com/jayad23/for-study/actions/workflows/node.js.yml)
 
 - 🔭 I’m currently working on **Web App for Automation of services and cloud infrastructure.**
 
