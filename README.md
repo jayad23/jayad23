@@ -5,7 +5,7 @@
 <h3 align="center">Web App Developer</h3>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20" /></p>
 
-<p align="left"> <a href="https://twitter.com/kikevngz" target="blank" style="color:#03C988"><img src="https://img.shields.io/twitter/follow/kikeVngz?style=for-the-badge&color=38E54D" alt="kikevngz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kikevngz" target="blank" style="color:#03C988"><img src="https://img.shields.io/twitter/follow/kikeVngz?style=for-the-badge&color=1679AB" alt="kikevngz" /></a> </p>
 
 
 ### Bio 🌱
