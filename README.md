@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kikevngz" target="blank" style="color:#03C988"><img src="https://img.shields.io/twitter/follow/kikeVngz?style=for-the-badge&color=1679AB" alt="kikevngz" /></a> </p>
 
-### Bio 🌱
+### whoami 🌱
 Hi there! 
 I am a front-end developer. I like to create innovative but simple solutions to make interesting & fun websites. I'm never still. I am constantly working to become an entrepreneur: I created and still maintain a billing app that I later sold to a car workshop. The app handles all billing processes: delivery notes, budgets, & bills (including third-party bills such as insurance companies), generates payment alarms, takes in work orders, and automatically assigns staff those orders. Keeps records and presents useful stats to track expenses, client's repair history... and other features. 
 Being creative requires being curious, so I feed my curiosity by staying updated with current tech stacks.
