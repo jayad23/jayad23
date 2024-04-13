@@ -1,5 +1,6 @@
-<img align="center" src="https://i.ibb.co/CK4v2Y7/Screenshot-2024-04-09-at-21-21-02-removebg-preview.png" width="140" height="75" alt="Kz" />
-
+<p align="center">
+  <img src="https://i.ibb.co/CK4v2Y7/Screenshot-2024-04-09-at-21-21-02-removebg-preview.png" width="140" height="75" alt="Kz" />
+</p>
 <h1 align="center">Web App Developer</h1>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20" /></p>
 
