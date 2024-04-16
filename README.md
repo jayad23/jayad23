@@ -4,8 +4,6 @@
 <h1 align="center">Web App Developer</h1>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20" /></p>
 
-<p align="left"> <a href="https://twitter.com/kikevngz" target="blank" style="color:#03C988"><img src="https://img.shields.io/twitter/follow/kikeVngz?style=for-the-badge&color=1679AB" alt="kikevngz" /></a> </p>
-
 ### whoami 🌱
 Hi there! 
 I am a front-end developer. I like to create innovative but simple solutions to make interesting & fun websites. I'm never still. I am constantly working to become an entrepreneur: I created and still maintain a billing app that I later sold to a car workshop. The app handles all billing processes: delivery notes, budgets, & bills (including third-party bills such as insurance companies), generates payment alarms, takes in work orders, and automatically assigns staff those orders. Keeps records and presents useful stats to track expenses, client's repair history... and other features. 
@@ -15,15 +13,20 @@ Being creative requires being curious, so I feed my curiosity by staying updated
 - 🤩 My most proud accomplishment **<a href="https://drive.google.com/file/d/1-TJIUb15pilWP8U_rpdiIphUBzl6WGkR/view?usp=sharing" alt="stanford_diploma" target="_blank">Certificate Diploma Stanford</a>**
 
 <h3 align="left">Connect with me:</h3>
-<a align="left" href="https://www.linkedin.com/in/jaidervanegas23/" alt="/in/jaidervanegas23/" target="_blank"> 
-  
-  ![Static Badge](https://img.shields.io/badge/follow-me?style=social&logo=linkedin&label=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjaidervanegas23%2F)
-
-</a>
 <a align="left" href="https://stackoverflow.com/users/18069936/kz-3" alt="/users/18069936/kz-3" target="_blank"> 
   
-  ![Static Badge](https://img.shields.io/badge/visit-me?style=social&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F18069936%2Fkz-3)
+ ![Static Badge](https://img.shields.io/badge/stackoverflow-follow?style=for-the-badge&logo=stackoverflow&logoColor=%23DC6B19&labelColor=%23FFC470&color=%23DC6B19&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F18069936%2Fkz-3)
 
+</a>
+<a align="left" href="https://www.linkedin.com/in/jaidervanegas23/" alt="/in/jaidervanegas23/" target="_blank"> 
+  
+  ![Static Badge](https://img.shields.io/badge/linkedin-follow?style=for-the-badge&logo=linkedin&logoColor=%230E46A3&labelColor=%239AC8CD&color=%230E46A3)
+
+</a>
+<a href="https://twitter.com/kikevngz" target="_blank">
+
+  ![Static Badge](https://img.shields.io/badge/twitter-follow?style=for-the-badge&logo=x&logoColor=%23141E46&labelColor=%239AC8CD&color=%23141E46)
+  
 </a>
 
 ## Languages and Tools:
