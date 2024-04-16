@@ -16,8 +16,10 @@ Being creative requires being curious, so I feed my curiosity by staying updated
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//in/jaidervanegas23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/jaidervanegas23/" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users//users/18069936/kz-3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/18069936/kz-3" height="20" width="20" /></a>
+  
+  ![Static Badge](https://img.shields.io/badge/follow-me?style=social&logo=linkedin&label=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjaidervanegas23%2F)
+  ![Static Badge](https://img.shields.io/badge/visit-me?style=social&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F18069936%2Fkz-3)
+
 </p>
 
 ## Languages and Tools:
