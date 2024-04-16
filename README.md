@@ -15,12 +15,16 @@ Being creative requires being curious, so I feed my curiosity by staying updated
 - 🤩 My most proud accomplishment **<a href="https://drive.google.com/file/d/1-TJIUb15pilWP8U_rpdiIphUBzl6WGkR/view?usp=sharing" alt="stanford_diploma" target="_blank">Certificate Diploma Stanford</a>**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<a align="left" href="https://www.linkedin.com/in/jaidervanegas23/" alt="/in/jaidervanegas23/" target="_blank"> 
   
   ![Static Badge](https://img.shields.io/badge/follow-me?style=social&logo=linkedin&label=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjaidervanegas23%2F)
+
+</a>
+<a align="left" href="https://stackoverflow.com/users/18069936/kz-3" alt="/users/18069936/kz-3" target="_blank"> 
+  
   ![Static Badge](https://img.shields.io/badge/visit-me?style=social&logo=stackoverflow&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F18069936%2Fkz-3)
 
-</p>
+</a>
 
 ## Languages and Tools:
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="20"/></p>
