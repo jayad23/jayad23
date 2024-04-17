@@ -4,7 +4,12 @@
 <h1 align="center">Web App Developer</h1>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20" /></p>
 
-### whoami 🌱
+### whoami 🌱 
+<a href="https://kike-vanegas-dev.vercel.app/home" alt="personal_professional" target="_blank">
+
+  ![Static Badge](https://img.shields.io/badge/Personal_Portfolio-portfolio_portfolio?style=for-the-badge)
+  
+</a>
 Hi there! 
 I am a front-end developer. I like to create innovative but simple solutions to make interesting & fun websites. I'm never still. I am constantly working to become an entrepreneur: I created and still maintain a billing app that I later sold to a car workshop. The app handles all billing processes: delivery notes, budgets, & bills (including third-party bills such as insurance companies), generates payment alarms, takes in work orders, and automatically assigns staff those orders. Keeps records and presents useful stats to track expenses, client's repair history... and other features. 
 Being creative requires being curious, so I feed my curiosity by staying updated with current tech stacks.
