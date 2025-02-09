@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/jaidervanegas23/" target="_blank">
+  <a href="https://www.linkedin.com/in/jaidervanegas23/" target="_blank" rel="noopener noreferrer">
     <img src="https://i.ibb.co/CK4v2Y7/Screenshot-2024-04-09-at-21-21-02-removebg-preview.png" width="140" height="75" alt="Kz" />
   </p>
 </div>
