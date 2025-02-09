@@ -1,4 +1,4 @@
-<p align="center">
+<a align="center" href="https://www.linkedin.com/in/jaidervanegas23/" target="_blank">
   <img src="https://i.ibb.co/CK4v2Y7/Screenshot-2024-04-09-at-21-21-02-removebg-preview.png" width="140" height="75" alt="Kz" />
 </p>
 <h1 align="center">Web App Developer</h1>
