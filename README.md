@@ -1,42 +1,94 @@
+<!-- Header -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/jaidervanegas23/" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.ibb.co/CK4v2Y7/Screenshot-2024-04-09-at-21-21-02-removebg-preview.png" width="140" height="75" alt="Kz" />
-  </p>
-</div>
-<h1 align="center">Web App Developer</h1>
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20" /></p>
 
-### whoami 🌱 
-<a href="https://kike-vanegas-dev.vercel.app/home" alt="personal_professional" target="_blank">
+```
+██╗  ██╗███████╗    ██╗   ██╗ █████╗ ███╗   ██╗███████╗ ██████╗  █████╗ ███████╗
+██║ ██╔╝╚══███╔╝    ██║   ██║██╔══██╗████╗  ██║██╔════╝██╔════╝ ██╔══██╗██╔════╝
+█████╔╝   ███╔╝     ██║   ██║███████║██╔██╗ ██║█████╗  ██║  ███╗███████║███████╗
+██╔═██╗  ███╔╝      ╚██╗ ██╔╝██╔══██║██║╚██╗██║██╔══╝  ██║   ██║██╔══██║╚════██║
+██║  ██╗███████╗     ╚████╔╝ ██║  ██║██║ ╚████║███████╗╚██████╔╝██║  ██║███████║
+╚═╝  ╚═╝╚══════╝      ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+```
 
-  ![Static Badge](https://img.shields.io/badge/Personal_Portfolio-portfolio_portfolio?style=for-the-badge)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Front-End+Developer+%F0%9F%9A%80;Builder+of+things+that+run+in+browsers;Stanford+CS+alum+%F0%9F%8E%93;Curious+by+nature%2C+creative+by+choice)](https://git.io/typing-svg)
+
+<a href="https://kike-vanegas-dev.vercel.app/home" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF9C" />
 </a>
-Hi there! 
-I am a front-end developer. I like to create innovative but simple solutions to make interesting & fun websites. I'm never still. I am constantly working to become an entrepreneur: I created and still maintain a billing app that I later sold to a car workshop. The app handles all billing processes: delivery notes, budgets, & bills (including third-party bills such as insurance companies), generates payment alarms, takes in work orders, and automatically assigns staff those orders. Keeps records and presents useful stats to track expenses, client's repair history... and other features. 
-Being creative requires being curious, so I feed my curiosity by staying updated with current tech stacks.
-
-
-- 🤩 My most proud accomplishment **<a href="https://drive.google.com/file/d/1-TJIUb15pilWP8U_rpdiIphUBzl6WGkR/view?usp=sharing" alt="stanford_diploma" target="_blank">Certificate Diploma Stanford</a>**
-
-<h3 align="left">Connect with me:</h3>
-<a align="left" href="https://stackoverflow.com/users/18069936/kz-3" alt="/users/18069936/kz-3" target="_blank"> 
-  
- ![Static Badge](https://img.shields.io/badge/stackoverflow-follow?style=for-the-badge&logo=stackoverflow&logoColor=%23DC6B19&labelColor=%23FFC470&color=%23DC6B19&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F18069936%2Fkz-3)
-
+<a href="https://www.linkedin.com/in/jaidervanegas23/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00A8FF" />
 </a>
-<a align="left" href="https://www.linkedin.com/in/jaidervanegas23/" alt="/in/jaidervanegas23/" target="_blank"> 
-  
-  ![Static Badge](https://img.shields.io/badge/linkedin-follow?style=for-the-badge&logo=linkedin&logoColor=%230E46A3&labelColor=%239AC8CD&color=%230E46A3)
-
+<a href="https://stackoverflow.com/users/18069936/kz-3" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=F48024" />
 </a>
 <a href="https://twitter.com/kikevngz" target="_blank">
-
-  ![Static Badge](https://img.shields.io/badge/twitter-follow?style=for-the-badge&logo=x&logoColor=%23141E46&labelColor=%239AC8CD&color=%23141E46)
-  
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ffffff" />
 </a>
 
-## Languages and Tools:
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="20"/></p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayad23&show_icons=true&locale=en&layout=compact" alt="jayad23" /></p>
+---
+
+## `$ whoami`
+
+```yaml
+name       : Kike Vanegas
+role       : Front-End Developer
+focus      : React · TypeScript · Node.js
+location   : Spain 🇪🇸
+status     : Building cool stuff. Always.
+```
+
+> I build interfaces that feel as good as they look. My sweet spot is turning complex problems into  
+> clean, intuitive experiences — fast, accessible, and maintainable.
+
+Shipped a full billing SaaS from scratch: delivery notes, budgets, invoices (including third-party insurance), work orders with auto-assignment, payment alerts, expense stats and client history. Sold it. Still maintaining it.
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 &nbsp;[Stanford Certificate](https://drive.google.com/file/d/1-TJIUb15pilWP8U_rpdiIphUBzl6WGkR/view?usp=sharing) — proud of this one.
+
+---
+
+## `$ ls ./tech-stack`
+
+**Core**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=339933)
+
+**Styling & UI**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=F24E1E)
+
+**Backend & Data**
+
+![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase&logoColor=FFCA28)
+![GraphQL](https://img.shields.io/badge/GraphQL-000?style=flat-square&logo=graphql&logoColor=E10098)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB)
+
+---
+
+## `$ cat ./stats.json`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jayad23&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FF9C&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&hide_border=false&rank_icon=github" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayad23&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FF9C&title_color=00FF9C&text_color=c9d1d9&hide_border=false" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jayad23&theme=terminal&background=0d0d0d&border=00FF9C&ring=00FF9C&fire=FF6B6B&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=888888" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>
+    <code>// Always iterating. Never settling.</code>
+  </sub>
+</div>
